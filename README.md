@@ -2,11 +2,11 @@
 This is an implementation of UDP server as part of Intro to Communication Networks course at Bar Ilan University.
 The main goal of this exercise is to define a protocol and use it to communicate between a UDP server to a client.
 
-This is the given structure which server and client communicate:
-Server -> foo -> Client
-Client -> foo -> Server
+This is the given structure which server and client communicate:<br/>
+Server -> foo -> Client<br/>
+Client -> foo -> Server<br/>
 
-![alt text](Extra/Screenshot 2021-12-19 234017.jpg)
+![alt text](Extra/Capture.jpg)
 
 Therefore, any message sent between the two, passes through foo.<br/>
 Foo has 4 modes:
